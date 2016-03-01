@@ -1,0 +1,191 @@
+/*
+Project Name: Blank Template
+Client: Your Client
+Author: Your Name
+Developer @GA in NYC
+*/
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,800);
+
+body {
+	font-size: 24px;
+	line-height: 1.4;
+	font-family: 'Open Sans', sans-serif;
+	background-color: #f0efef;
+	text-align: center;
+	font-weight: 300;
+	max-width: 960px;
+	margin: 0 auto;
+	color: #033048;
+	border: 1px solid black;
+}
+
+a {
+  text-decoration: none;
+ 	color: #033048;
+
+}
+
+ul {
+	list-style: none;
+	-webkit-padding-start: 0px;
+}
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+/* Center the container */
+#container {
+	width: 100%;
+	margin: 0 auto;
+	background-color: #033048;
+	text-align: center;
+	padding: 20px 0px;
+}
+
+header {
+}
+
+h1 {
+	color: white;
+	text-align: left;
+	font-size: 48px;
+	display: inline;
+	padding-right: 160px;
+}
+nav {
+	font-weight: 600;
+	color: #f9e42e;
+	font-size: 24px;
+	display: inline;
+	text-align: right;
+	padding: 10px;
+}
+
+#blog {
+	max-width: 700px;
+	padding: 5px;
+	display: inline-block;
+	text-align: left;
+
+}
+
+h2 {
+	font-size: 40px;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+#sidebar {
+	max-width: 240px;
+	float: right;
+	padding: 5px;
+	text-align: left;
+}
+
+p {
+	color:#606161;
+	padding: 15px;
+}
+
+strong {
+	font-size: 250%;
+	float: left;
+	margin: 0;
+}
+
+h3 {
+	font-weight: 800;
+	font-size: 32px;
+}
+
+.side-categories {
+	font-size: 24px;
+	font-weight: 300;
+}
+footer {
+	background-color: #121212;
+	text-align: center;
+}
+
+.about-text {
+	font-size: 22px;
+	font-weight: 300;
+	padding: 10px 40px 0 0;
+}
+
+.learn-more {
+	font-size: 22px;
+	font-weight: 600;
+}
+
+.read-more {
+	font-weight: 600;
+	font-size: 24px;
+	padding-left: 430px;
+	}
+
+aside {
+  background: #f9e42e;
+  padding: 30px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.button {
+	border-radius: 5px;
+  	font-weight: 800;
+  	padding: 12px 0;
+  	width: 280px;
+  	font-size: 28px;
+  	text-align: center;
+  	display: block;
+  	margin: 0 auto;
+	background: #033048;
+  	text-align: center;
+  	color: #fff;
+  	font-size: 24px;
+}
+
+.yellow-relaxr {
+	color: #f9e42e;
+	text-align: center;
+	margin: 0;
+
+}
+
+.copyright {
+	font-size: 18px;
+}
+
+footer ul li {
+  display: inline-block;
+  list-style: none;
+  margin: 0 26px 75px;
+}
+
+footer p {
+  font-size: 18px;
+  color: #fff;
+  font-weight: 600;
+}
+
+nav a {
+	font-weight: 600;
+	color: #f9e42e;
+	font-size: 24px;
+	display: inline;
+	text-align: right;
+	padding: 10px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
+
+
+
